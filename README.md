@@ -1,1 +1,1 @@
-# ProyectoRegresi-nLineal
+# Proyecto Regresión Lineal
